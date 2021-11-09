@@ -12,3 +12,6 @@
 - 🌱 I’m currently learning .Net, Delphi, Flutter, NodeJS, SQL Server and other Javascript Framework. 🤣
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I eat Food. 🍜
+
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=afni18" alt="visitor badge"/>
