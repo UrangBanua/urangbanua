@@ -25,7 +25,7 @@
 <!-- status codes -->
 <a align="center" href="https://afni18.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=afni18&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afni18&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=afni18&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afni18&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&count_private=1&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
