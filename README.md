@@ -19,14 +19,14 @@
 <!-- thropy -->
 <a href="https://urangbanua.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=urangbanua&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=urangbanua&column=7&theme=radical"/>
     </p>
 </a>
 
 <!-- status codes -->
 <a align="center" href="https://github.com/urangbanua">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=urangbanua&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urangbanua&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=urangbanua&show_icons=true&count_private=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urangbanua&count_private=true&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
