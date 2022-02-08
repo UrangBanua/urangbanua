@@ -3,7 +3,7 @@
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Afni, I'm a Software Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
-[![](https://img.shields.io/badge/-@afni.afdillah-black?logo=medium&style=flat-square)](https://medium.com/@urang-banua)
+[![](https://img.shields.io/badge/-@urang-banua-black?logo=medium&style=flat-square)](https://medium.com/@urang-banua)
 [![](https://img.shields.io/badge/-afni.afdillah-1fa2f2?logo=facebook&style=flat-square&logoColor=white)](https://facebook.com/afni.afdillah) 
 </div>
 
