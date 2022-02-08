@@ -3,6 +3,7 @@
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Afni, I'm a Software Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
+[![](https://img.shields.io/badge/@urangbanua-black?logo=github&style=flat-square)](https://urangbanua.github.io)
 [![](https://img.shields.io/badge/@urang--banua-black?logo=medium&style=flat-square)](https://medium.com/@urang-banua)
 [![](https://img.shields.io/badge/-afni.afdillah-1fa2f2?logo=facebook&style=flat-square&logoColor=white)](https://facebook.com/afni.afdillah) 
 </div>
@@ -23,9 +24,9 @@
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://urangbanua.github.io">
+<a align="center" href="https://github.com/urangbanua">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=urangbanua&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urangbanua&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&count_private=1&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=urangbanua&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urangbanua&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
