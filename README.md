@@ -16,7 +16,7 @@
 #### Stats:  
 
 <!-- thropy -->
-<a href="https://rifqirosyidi.github.io">
+<a href="https://afni18.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=afni18&column=7&theme=onedark"/>
     </p>
