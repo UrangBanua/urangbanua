@@ -16,19 +16,19 @@
 #### Stats:  
 
 <!-- thropy -->
-<a href="https://afni18.github.io">
+<a href="https://urangbanua.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=afni18&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=urangbanua&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://afni18.github.io">
+<a align="center" href="https://urangbanua.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=afni18&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afni18&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&count_private=1&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=urangbanua&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urangbanua&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&count_private=1&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=afni18&color=brightgreen&style=flat-square" alt="profile_views"/>
+ <img src="https://komarev.com/ghpvc/?username=urangbanua&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
