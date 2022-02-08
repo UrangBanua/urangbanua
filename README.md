@@ -12,7 +12,7 @@
 - 🔭  Previously I worked in a private company as a software engineer and currently I work in a local government as an accountant, I really like everything about technology development.
 - 🌱 I’m currently learning .Net, Delphi, Flutter, NodeJS, SQL Server and other Javascript Framework. 🤣
 - 👯 I’m looking to forward to collaborate. 
-- ⚡ Fun fact: I eat Food. 🍜
+- ⚡ Fun fact: I love coffee. 🍜
 
 #### Stats:  
 
