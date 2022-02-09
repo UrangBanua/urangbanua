@@ -19,7 +19,7 @@
 <!-- thropy -->
 <a href="https://urangbanua.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=urangbanua&column=7&theme=radical"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=urangbanua&column=7&theme=onedark"/>
     </p>
 </a>
 
