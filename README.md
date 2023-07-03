@@ -17,21 +17,21 @@
 #### Stats:  
 
 <!-- thropy -->
-<a href="https://urangbanua.github.io">
+<a href="https://UrangBanua.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=urangbanua&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=UrangBanua&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://github.com/urangbanua">
+<a align="center" href="https://github.com/UrangBanua">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=urangbanua" alt="my github stats" width="420"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=UrangBanua" alt="my github stats" width="420"/>-->
         &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urangbanua&count_private=true&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrangBanua&count_private=true&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=urangbanua&color=brightgreen&style=flat-square" alt="profile_views"/>
+ <img src="https://komarev.com/ghpvc/?username=UrangBanua&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
