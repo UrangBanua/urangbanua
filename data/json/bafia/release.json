@@ -1,18 +1,18 @@
 {
-  "version": "1.0.1",
-  "release_date": "2024-07-31",
+  "version": "1.0.2",
+  "release_date": "2024-08-05",
   "features": [
     {
-      "title": "New User Interface",
-      "description": "A completely redesigned user interface for better user experience."
+      "title": "Tampilan Baru dan tambahan Autentikasi",
+      "description": "penambahan fungsi dan tampilan baru dengan autentikasi menggunakan Biometric/PIN."
     },
     {
-      "title": "Performance Improvements",
-      "description": "Optimized the application to run faster and more efficiently."
+      "title": "Performa lebik bagus dan aman",
+      "description": "Optimasi aplikasi agar berjalan lebih cepat dan mendukung keamanan data."
     },
     {
-      "title": "Bug Fixes",
-      "description": "Fixed various bugs reported by users."
+      "title": "Fitur Connectivity Check & Info versi app",
+      "description": "penambahan fungsi cek koneksi realtime untuk perbaruan data yg lebih akurat serta fitur update aplikasi langsung."
     }
   ],
   "url_image": "#",
