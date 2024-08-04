@@ -1,22 +1,22 @@
 {
-    "version": "1.0.1",
-    "release_date": "2024-07-31",
-    "features": [
-      {
-        "title": "New User Interface",
-        "description": "A completely redesigned user interface for better user experience."
-      },
-      {
-        "title": "Performance Improvements",
-        "description": "Optimized the application to run faster and more efficiently."
-      },
-      {
-        "title": "Bug Fixes",
-        "description": "Fixed various bugs reported by users."
-      }
-    ],
-    "url_image": "#",
-    "namespace_android": "com.urangbanua.bafia",
-    "minimum_os_android": "12",
-    "url_download_apk": "https://github.com/UrangBanua/BaFiA/releases/download/v1.0.1/bafia-release_v1.0.1.apk",
+  "version": "1.0.1",
+  "release_date": "2024-07-31",
+  "features": [
+    {
+      "title": "New User Interface",
+      "description": "A completely redesigned user interface for better user experience."
+    },
+    {
+      "title": "Performance Improvements",
+      "description": "Optimized the application to run faster and more efficiently."
+    },
+    {
+      "title": "Bug Fixes",
+      "description": "Fixed various bugs reported by users."
+    }
+  ],
+  "url_image": "#",
+  "namespace_android": "com.urangbanua.bafia",
+  "minimum_os_android": "12",
+  "url_download_apk": "https://github.com/UrangBanua/BaFiA/releases/download/v1.0.1/bafia-release_v1.0.1.apk"
 }
