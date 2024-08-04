@@ -1,0 +1,26 @@
+{
+    "version": "1.2.3",
+    "release_date": "2023-10-01",
+    "features": [
+      {
+        "title": "New User Interface",
+        "description": "A completely redesigned user interface for better user experience."
+      },
+      {
+        "title": "Performance Improvements",
+        "description": "Optimized the application to run faster and more efficiently."
+      },
+      {
+        "title": "Bug Fixes",
+        "description": "Fixed various bugs reported by users."
+      }
+    ],
+    "compatibility": {
+      "minimum_os_version": "10.0",
+      "supported_devices": [
+        "Windows PC",
+        "Mac",
+        "Linux"
+      ]
+    }
+  }
